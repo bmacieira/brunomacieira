@@ -1,7 +1,7 @@
 from distutils.core import setup
-setup(name='primeNumbers',
+setup(name='brunomacieira',
       version='1.0',
-      description='primeNumber Distribution Module',
+      description='brunomacieira Distribution Module',
       author='Bruno Macieira',
       author_email='macieira.bruno@gmail.com',
       url='git',
