@@ -17,9 +17,9 @@ with open(join(here, 'README.md'), encoding='utf-8') as buff:
     long_description = buff.read()
 
 setup(
-    name="drawing",
+    name="primeNumber",
     version="0.1",
-    description="Drawing Distribution Package",
+    description="primeNumber Distribution Package",
     long_description=long_description,
     license='MIT',
     packages=find_packages(exclude=['test']),
