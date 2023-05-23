@@ -5,5 +5,5 @@ setup(name='primeNumbers',
       author='Bruno Macieira',
       author_email='macieira.bruno@gmail.com',
       url='git',
-      py_modules=['brunomacieira'],
+      py_modules=['primeNumbers'],
      )
